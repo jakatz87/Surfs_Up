@@ -68,6 +68,7 @@ I also created a quick web API using Flask that included a temperature query too
 The code can be accessed in the files with the `app.py` file.
 
 Some screenshots:
+
 ![flask main](https://github.com/jakatz87/surfs_up/blob/main/Flask_main.png)
 ![flask precip](https://github.com/jakatz87/surfs_up/blob/main/Flask_precip.png)
 ![flask temp](https://github.com/jakatz87/surfs_up/blob/main/Flask_temps.png)
