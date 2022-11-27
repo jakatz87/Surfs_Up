@@ -97,6 +97,7 @@ December DataFrame and Summary Statistics:
 ![dec summary](https://github.com/jakatz87/surfs_up/blob/main/dec_describe.png)
 
 There are a few differences between June and December:
+- Both December and June have consistent temperatures, as the Standard Deviation is between 3 and 4 degrees for both months.
 - The minimum temperature of December is 8 degrees lower than the minimum of June.
 - The median and average temperatures of December are 4 degrees lower than the median and average of June.
 - The maximum temperature of December is only 2 degrees lower than the maximum of June.
