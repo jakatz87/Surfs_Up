@@ -5,6 +5,7 @@ I assisted in the development of a business plan to open a surf and ice cream sh
 ## Resources
 ***Data Source***: 
 - hawaii.sqlite
+
 ***Software***: 
 - Python 3.7.13
 - Pandas
