@@ -64,6 +64,13 @@ A look at the summary statistics only serves to justify the plan:
 
 ![tobs summary](https://github.com/jakatz87/surfs_up/blob/main/temps_describe.png)
 
+I also created a quick web API using Flask that included a temperature query tool so anyone could find statistics for a given timeframe.
+The code can be accessed in the files with the `app.py` file.
+
+Some screenshots:
+![flask main](https://github.com/jakatz87/surfs_up/blob/main/Flask_main.png)
+![flask precip](https://github.com/jakatz87/surfs_up/blob/main/Flask_precip.png)
+![flask temp](https://github.com/jakatz87/surfs_up/blob/main/Flask_temps.png)
 
 To compare the hottest and coldest part of the year, I analyzed the months of June and December for the entire data set:
 ```
