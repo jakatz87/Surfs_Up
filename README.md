@@ -96,6 +96,10 @@ December DataFrame and Summary Statistics:
 
 ![dec summary](https://github.com/jakatz87/surfs_up/blob/main/dec_describe.png)
 
+There are a few differences between June and December:
+- The minimum temperature of December is 8 degrees lower than the minimum of June.
+- The median and average temperatures of December are 4 degrees lower than the median and average of June.
+- The maximum temperature of December is only 2 degrees lower than the maximum of June.
 
 ## Summary
 1. Precipitation is not an obstacle. There will be select times with high precipitation, like January, April, July/August.
