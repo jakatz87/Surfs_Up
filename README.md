@@ -37,9 +37,11 @@ df.set_index(df['date'], inplace = True)
 ```
 
 A quick plot of precipitation data highlights the times of year when precipitation tends to be higher:
+
 ![precip chart](https://github.com/jakatz87/surfs_up/blob/main/precip_plot.png)
 
 A look at the summary statistics show the Average and Median precipitation levels are enough to ignore the Maximums:
+
 ![precip summary](https://github.com/jakatz87/surfs_up/blob/main/precip_describe.png)
 
 To analyze temperature, I used two years of data from the most prolific weather station:
@@ -55,9 +57,11 @@ df = pd.DataFrame(results, columns=['tobs'])
 ```
 
 The frequency table from this analysis is enough to display how perfect the weather tends to be over time:
+
 ![tobs chart](https://github.com/jakatz87/surfs_up/blob/main/temps_pop_station.png)
 
 A look at the summary statistics only serves to justify the plan:
+
 ![tobs summary](https://github.com/jakatz87/surfs_up/blob/main/temps_describe.png)
 
 
@@ -72,7 +76,9 @@ june_df = pd.DataFrame(results, columns = ['date', 'June Temps'])
 ```
 
 June DataFrame and Summary Statistics:
+
 ![june df](https://github.com/jakatz87/surfs_up/blob/main/june_df.png)
+
 ![june summary](https://github.com/jakatz87/surfs_up/blob/main/june_describe.png)
 
 ```
@@ -85,7 +91,9 @@ dec_df=pd.DataFrame(results_d, columns=['date', 'December Temps'])
 ```
 
 December DataFrame and Summary Statistics:
+
 ![dec df](https://github.com/jakatz87/surfs_up/blob/main/dec_df.png)
+
 ![dec summary](https://github.com/jakatz87/surfs_up/blob/main/dec_describe.png)
 
 
